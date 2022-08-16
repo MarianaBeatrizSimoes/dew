@@ -1,0 +1,58 @@
+#tudo{
+    width: 90%;
+    margin: 0 auto;
+    background-color: red;
+    height: 900px;
+}
+header{
+    height: 200px;
+    width: 50%;
+   background-color: blue;
+   float: left;
+}
+nav{
+    width: 50%;
+    height: 200px;
+    background-color:yellow;
+    float:left;
+    
+}
+main{
+    float: left;
+    width: 95%;
+    height: 500px;
+    background-color: green;
+    margin-left: 2.5px;
+}
+section{
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+
+}
+#box1{
+    width: 350px;
+    height: 600px;
+    background-color: blueviolet;
+
+}
+#box2{
+    width: 350px;
+    height: 600px;
+   background-color:pink;
+
+}
+#box3{
+    width: 350px;
+    height: 600px;
+   background-color:orange;
+
+}
+footer{
+    float: left;
+    width: 90%;
+    height: 200px;
+    background-color: burlywood;
+   margin-left: 5%;
+   
+}
